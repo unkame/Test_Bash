@@ -66,11 +66,13 @@
 ### Move / rename file to an existing dir
 25. git mv "rename2.txt" "child/rename3.txt"
 
-### Back to last checkpoint
-26. git checkout "xxxx.txt"
+### Back to last checkpoint, by specific file or by whole project
+26. git checkout -- "xxxx.txt"
+
+27. git checkout "sha code"
 
 ### unstage file from staging area to working area
-27. git reset HEAD "file.txt"
+28. git reset HEAD "file.txt"
 
 
 
