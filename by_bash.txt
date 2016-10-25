@@ -74,8 +74,9 @@
 ### unstage file from staging area to working area
 28. git reset HEAD "file.txt"
 
+### Create & Push files to repo on Web
+29. git remote add Test_Bash https://github.com/unkame/Test_Bash.git
 
-
-
+30. git push -u Test_Bash master
 
 
