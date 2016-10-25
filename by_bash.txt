@@ -56,6 +56,21 @@
 ### delete comitted file
 21. git rm "del.txt"
 
+### Rename a file manually and commit by steps 22 - 24
+22. git add "rename2.txt"   ### renamed file name
+
+23. git rm "rename1.txt"    ### remove file with original name
+
+24. git commit -m "commit after names"
+
+### Move / rename file to an existing dir
+25. git mv "rename2.txt" "child/rename3.txt"
+
+### Back to last checkpoint
+26. git checkout "xxxx.txt"
+
+
+
 
 
 
