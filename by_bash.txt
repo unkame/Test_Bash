@@ -50,7 +50,8 @@
 ### view changes
 19. git diff
 
-
+### View changes at staging area (added but not committed)
+20. git diff --staged
 
 
 
