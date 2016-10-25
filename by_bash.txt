@@ -1,9 +1,60 @@
 # Committed by bash
 
-## Committed by bash
+## Command used
 
-hahaha
+1. git config --global user.name "unkame"
 
-1. abc
-2. cbd
-3. asd
+2. git config --global user.email "xxx@yyy.com"
+
+### get all config. info
+3. git config --list
+
+### get specific config. info
+4. git config user.email
+
+5. clear()
+
+6. get help commit
+
+### locate respository dir
+7. cd ~
+
+8. pwd
+
+9. cd xxx/yyy/
+
+### files under current dir
+10. ls
+
+11. ls -la
+
+### create git project
+12. git init
+
+### add all files to staging area
+13. git add .
+
+### commit the project with message
+14. git commit -m "This is first commit"
+
+### check log & status
+15. git log
+
+16. git log --author="unkame"
+
+17. git status
+
+### add specific file
+18. git add by_bash_2.txt
+
+
+
+
+
+
+
+
+
+
+
+
