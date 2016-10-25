@@ -31,7 +31,7 @@
 ### create git project
 12. git init
 
-### add all files to staging area
+### add all files to staging area (ready to be committed)
 13. git add .
 
 ### commit the project with message
@@ -47,7 +47,8 @@
 ### add specific file
 18. git add by_bash_2.txt
 
-
+### view changes
+19. git diff
 
 
 
