@@ -53,7 +53,8 @@
 ### View changes at staging area (added but not committed)
 20. git diff --staged
 
-
+### delete comitted file
+21. git rm "del.txt"
 
 
 
